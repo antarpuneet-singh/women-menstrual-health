@@ -1,3 +1,4 @@
+This website was created as a team project in a university level Hackathon(24 hrs).
 # Women-Healthcare
 
 **Aim of the website-To create awareness about the menstrual cycle and pregnancy(especially in the rural areas),its related health issues,medical and nutritional help needed just at one place.Also,trying to integrate a Disease detection application into our website which uses Machine learning to detect a disease from its symptoms.
